@@ -3,6 +3,8 @@ package com.iosdriver.utils;
 import com.iosdriver.pages.*;
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Rule;
+import org.junit.rules.TestName;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.PageFactory;
 
@@ -11,10 +13,14 @@ import org.openqa.selenium.support.PageFactory;
  */
 public class AbstractTest{
 
+    @Rule
+    public TestName testName=new TestName();
+
     protected RemoteWebDriver driver= ServerHelper.driver;
 
     @Before
     public void setUp(){
+       //System.out.println(testName.getMethodName());
        TermsAndConditions tc= PageFactory.initElements(driver,TermsAndConditions.class);
        if(tc.verifyAcceptButton()){
            tc.clickAcceptButton().clickSignOnButton();
@@ -34,6 +40,9 @@ public class AbstractTest{
             mp.clickSignOffButton();
             mp.clickConfirmSignOffButton();
         }
+
+        //To update the test case result in tm tool
+        //System.out.println(testName.getMethodName());
     }
 
 
