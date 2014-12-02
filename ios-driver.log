@@ -1,0 +1,23 @@
+38:04:419 INFO ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+38:05:188 FINE IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+38:05:188 FINE IOSServer.p  Beta features enabled (enabled by -real flag): false
+38:05:189 FINE IOSServer.p  Simulator enabled : true
+38:05:189 FINE IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+38:05:189 FINE IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+38:05:190 FINE IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+38:05:190 FINE IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+38:05:190 FINE IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+38:05:191 FINE IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+38:05:191 FINE IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+38:05:191 FINE IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+38:05:192 FINE IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+38:05:192 FINE IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+38:05:193 FINE IOSServer.p  Using java: 1.7.0_71
+38:05:193 FINE IOSServer.p  Using Xcode install: /Applications/Xcode.app
+38:05:193 FINE IOSServer.p  Using instruments: version:6.1, build: 56160
+38:05:193 FINE IOSServer.p  Using iOS version 8.1
+38:06:904 FINE IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+38:06:904 FINE IOSServer.p  Applications :
+38:06:905 FINE IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+38:06:905 FINE IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+38:06:906 FINE IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
