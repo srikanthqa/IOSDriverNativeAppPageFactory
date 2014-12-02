@@ -12,7 +12,7 @@ import org.openqa.selenium.support.PageFactory;
 public class UserLoginTest extends AbstractTest{
 
     @Test
-    public void testUserLogin(){
+    public void testUserLoginWithValidCredentials(){
         LoginPage lp=PageFactory.initElements(driver,LoginPage.class);
         lp.setUserName("jpt31_7213");
         lp.setPassword("ist123");
@@ -22,12 +22,11 @@ public class UserLoginTest extends AbstractTest{
     }
 
     @Test
-    public void testUserLoginWithValidCredentials(){
+    public void testUserLoginWithInValidCredentials(){
         LoginPage lp=PageFactory.initElements(driver,LoginPage.class);
-        lp.setUserName("jpt31_7213");
+        lp.setUserName("jpt31_721311");
         lp.setPassword("ist123");
-        HomePage hp=lp.clickLoginButton();
-        hp.clickCloseTutorialButton();
-        Assert.assertTrue(hp.verifyMenuIcon());
+        lp.clickLoginButton();
+        Assert.assertTrue(lp.verifyErrorMessage());
     }
 }

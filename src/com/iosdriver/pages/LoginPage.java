@@ -22,6 +22,14 @@ public class LoginPage extends AbstractPage{
     @FindBy(xpath = "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[5]")
     private WebElement loginButton;
 
+    @FindBy(xpath = "//UIAApplication[1]/UIAWindow[1]/UIAButton[2]")
+    private WebElement backButton;
+
+    @FindBy(xpath = "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAButton[3]")
+    private WebElement checkboxRememberID;
+
+    @FindBy(xpath = "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAStaticText[3]")
+    private WebElement errorText;
 
     public void setUserName(String username){
         waitForElement(usernameEdit);
@@ -45,5 +53,18 @@ public class LoginPage extends AbstractPage{
         usernameEdit.sendKeys(username);
         passwordEdit.sendKeys(password);
         loginButton.click();
+    }
+
+    public SignOnPage clickBackButton(){
+        backButton.click();
+        return PageFactory.initElements(driver,SignOnPage.class);
+    }
+
+    public void checkRememberID(){
+        checkboxRememberID.click();
+    }
+
+    public boolean verifyErrorMessage(){
+        return IsElementPresent(errorText);
     }
 }

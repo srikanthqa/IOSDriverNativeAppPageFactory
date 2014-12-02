@@ -1,5 +1,6 @@
 package com.iosdriver.testsuites;
 
+import com.iosdriver.tests.TransactionTest;
 import com.iosdriver.tests.UserLoginTest;
 import com.iosdriver.tests.UserLogoutTest;
 import com.iosdriver.utils.ServerHelper;
@@ -14,7 +15,7 @@ import org.uiautomation.ios.IOSCapabilities;
  */
 
 @RunWith(Suite.class)
-@Suite.SuiteClasses({UserLoginTest.class, UserLogoutTest.class})
+@Suite.SuiteClasses({UserLoginTest.class, UserLogoutTest.class, TransactionTest.class})
 public class AllTestSuiteRunner {
 
     static ServerHelper server=new ServerHelper();

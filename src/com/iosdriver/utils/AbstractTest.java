@@ -1,9 +1,6 @@
 package com.iosdriver.utils;
 
-import com.iosdriver.pages.HomePage;
-import com.iosdriver.pages.LoginPage;
-import com.iosdriver.pages.MenuOptionsPage;
-import com.iosdriver.pages.TermsAndConditions;
+import com.iosdriver.pages.*;
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -28,7 +25,11 @@ public class AbstractTest{
     public void tearDown(){
         HomePage hp= PageFactory.initElements(driver, HomePage.class);
         LoginPage lp=PageFactory.initElements(driver,LoginPage.class);
-        if((!lp.verifyLoginButton()) || (hp.verifyMenuIcon())){
+        TransactionPage tp=PageFactory.initElements(driver,TransactionPage.class);
+        if((!lp.verifyLoginButton()) || (hp.verifyMenuIcon()) || (tp.verifyTitle())){
+            if((tp.verifyTitle())){
+                tp.clickCloseTransactionScreen();
+            }
             MenuOptionsPage mp=hp.clickMenuIcon();
             mp.clickSignOffButton();
             mp.clickConfirmSignOffButton();

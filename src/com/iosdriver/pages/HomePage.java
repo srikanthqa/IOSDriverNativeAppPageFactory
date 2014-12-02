@@ -18,6 +18,9 @@ public class HomePage extends AbstractPage{
     @FindBy(xpath = "//UIAButton[@name='Close Tutorial']")
     private WebElement closeTutorialButton;
 
+    @FindBy(xpath = "//UIAApplication[1]/UIAWindow[1]/UIAScrollView[1]/UIAScrollView[1]/UIAButton[12]")
+    private WebElement transactionButton;
+
     public boolean verifyMenuIcon(){
         return IsElementPresent(hamburgerMenuIcon);
     }
@@ -39,4 +42,12 @@ public class HomePage extends AbstractPage{
         hamburgerMenuIcon.click();
         return PageFactory.initElements(driver, MenuOptionsPage.class);
     }
+
+    public TransactionPage clickTransactionButton(){
+        waitForElement(transactionButton);
+        transactionButton.click();
+        return PageFactory.initElements(driver,TransactionPage.class);
+    }
+
+
 }
