@@ -1,0 +1,161 @@
+2014-12-01T20:08:49Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T20:08:50Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T20:08:51Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T20:08:51Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T20:08:51Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T20:08:51Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T20:08:51Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T20:34:22Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T20:34:23Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T20:34:24Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T20:34:24Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T20:34:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T20:34:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T20:34:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T20:51:31Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T20:51:32Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T20:51:34Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T20:51:34Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T20:51:34Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T20:51:34Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T20:51:34Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T20:56:22Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T20:56:23Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T20:56:24Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T20:56:24Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T20:56:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T20:56:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T20:56:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T20:58:43Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T20:58:43Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T20:58:45Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T20:58:45Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T20:58:45Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T20:58:45Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T20:58:45Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T21:07:21Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T21:07:22Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T21:07:24Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T21:07:24Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T21:07:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T21:07:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T21:07:24Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
+2014-12-01T21:30:13Z INFO org.uiautomation.ios.ApplicationStore.<init>  App archive folder:/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  version:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Beta features enabled (enabled by -real flag): false
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Simulator enabled : true
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Inspector: http://0.0.0.0:4444/inspector/
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Tests can access the server at http://0.0.0.0:4444/wd/hub
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Server status: http://0.0.0.0:4444/wd/hub/status
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Connected devices: http://0.0.0.0:4444/wd/hub/devices/all
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Applications: http://0.0.0.0:4444/wd/hub/applications/all
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Capabilities: http://0.0.0.0:4444/wd/hub/capabilities/all
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Monitoring '/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications' for new applications
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Archived apps: /Users/Srikanth/IdeaProjects/IOSDriverNativeApp/applications
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Build info: ios-driver 0.6.6-SNAPSHOT (built:20141009-1559,sha:663b7cc0a7a48ff629b1bcb39bbd78aed1c1e560)
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Running on: Mac OS X 10.10.1 (x86_64)
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Using java: 1.7.0_71
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Using Xcode install: /Applications/Xcode.app
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Using instruments: version:6.1, build: 56160
+2014-12-01T21:30:13Z FINE org.uiautomation.ios.IOSServer.p  Using iOS version 8.1
+2014-12-01T21:30:15Z FINE org.uiautomation.ios.IOSServer.p  iOS >= 6.0. Safari and hybrid apps are supported.
+2014-12-01T21:30:15Z FINE org.uiautomation.ios.IOSServer.p  Applications :
+2014-12-01T21:30:15Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=R1GM225V05SIT,CFBundleVersion=6.11,/Users/Srikanth/IdeaProjects/IOSDriverNativeApp/resources/R1GM225V05SIT.app
+2014-12-01T21:30:15Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=9537.53,/Users/Srikanth/.ios-driver/safariCopies/safari-7.1.app
+2014-12-01T21:30:15Z FINE org.uiautomation.ios.IOSServer.p  	CFBundleName=Safari,CFBundleVersion=600.1.4,/Users/Srikanth/.ios-driver/safariCopies/safari-8.1.app
